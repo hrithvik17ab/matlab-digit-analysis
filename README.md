@@ -1,7 +1,6 @@
 # MATLAB Handwritten Digit Feature Analysis
 
 ### Author: Hrithvik Ranka
-### Date: June 18, 2025
 
 ---
 
