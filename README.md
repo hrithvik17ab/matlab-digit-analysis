@@ -29,9 +29,6 @@ The script performs the following steps automatically:
 
 The final plot demonstrates a key finding: the **Euler Number** is a highly consistent and effective feature for distinguishing certain digits. As shown below, the digit '8' consistently has an Euler Number of -1 (indicating two holes), while digits like '0', '4', and '6' have a value of 0 (one hole). This proves the success of the feature extraction algorithm.
 
-*(Optional: You can add a screenshot of your plot named `result_plot.png` to the repository to display it here)*
-![Result Plot](result_plot.png)
-
 ---
 
 ## How to Run the Code
